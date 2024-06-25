@@ -22,7 +22,7 @@ This project is a Python application that approximates the value of π (pi) usin
 ## Installation
 Clone or download the project:
 \`\`\`bash
-git clone https://github.com/username/monte-carlo-pi.git
+git clone https://github.com/YusufCelebii/determining_pi_with_MonteCarlo_method
 cd monte-carlo-pi
 \`\`\`
 
